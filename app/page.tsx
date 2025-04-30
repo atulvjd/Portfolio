@@ -5,7 +5,6 @@ import ProjectsPreview from "@/components/ProjectsPreview"
 import VisionPreview from "@/components/VisionPreview"
 import ContactCTA from "@/components/ContactCTA"
 import BlogPreview from "@/components/BlogPreview"
-import BlogCard from "@/components/BlogCard"
 
 export default function Home() {
   return (

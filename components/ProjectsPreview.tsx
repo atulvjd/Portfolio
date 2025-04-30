@@ -52,6 +52,7 @@ const featuredProjects = [
     github: "https://github.com/atulsahu/curl-counter",
     demo: "https://curl-counter-demo.atulsahu.com",
   },
+
 ]
 
 export default function ProjectsPreview() {
