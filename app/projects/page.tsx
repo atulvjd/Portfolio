@@ -142,6 +142,25 @@ const projects = [
     details:
       "GodRioX is a meme marketing platform that helps brands leverage the power of memes for marketing. It includes tools for creating, scheduling, and analyzing meme content across social media platforms. The platform also provides insights into trending formats and topics, helping brands stay relevant and engage with their audience effectively.",
   },
+  {
+    id: 8,
+    name: "A Landing page for a Video Production company",
+    description:
+      "A Simple Landing page for a Video production company to showcase there work, ethnicity and passion.",
+    oneLiner: "Memes that market",
+    problem:
+      "Nowadays landing pages are getting too much cluttery and hard to understand.",
+    interesting:
+      "Uses trend analysis and audience segmentation to create targeted meme campaigns that drive engagement and conversions.",
+    skills: ["Typescripts", "Graphics", "Trend Analysis", "Social Media"],
+    tags: ["Marketing", "Content Creation", "Social Media", "Viral"],
+    category: "Marketing",
+    image: "/88.jpg?height=600&width=800",
+    github: "",
+    demo: "https://youtube.com/@AtulCore",
+    details:
+      "GodRioX is a meme marketing platform that helps brands leverage the power of memes for marketing. It includes tools for creating, scheduling, and analyzing meme content across social media platforms. The platform also provides insights into trending formats and topics, helping brands stay relevant and engage with their audience effectively.",
+  },
 ]
 
 // Categories for filtering
