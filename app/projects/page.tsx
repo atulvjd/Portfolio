@@ -24,7 +24,7 @@ const projects = [
     tags: ["AI", "Mistral 7B", "Ollama", "Python"],
     category: "AI",
     image: "/aibot.jpg?height=600&width=800",
-    github: "https://github.com/atulsahu/personal-ai-assistant",
+    github: "https://github.com/atulvjd/personal-ai-assistant",
     demo: "https://assistant-demo.atulsahu.com",
     details:
       "This AI assistant leverages the Mistral 7B model through Ollama to provide personalized assistance for various tasks. It features natural language understanding, context awareness, and can be customized to handle specific workflows. The assistant can help with research, content creation, scheduling, and more, making it a valuable productivity tool.",
@@ -42,7 +42,7 @@ const projects = [
     tags: ["Voice AI", "Python", "Speech Recognition", "Automation"],
     category: "AI",
     image: "/voiceas.jpg?height=600&width=800",
-    github: "https://github.com/atulsahu/ai-voice-assistant",
+    github: "https://github.com/atulvjd/ai-voice-assistant",
     demo: "",
     details:
       "This voice assistant uses advanced speech recognition to understand and respond to voice commands. It can control smart home devices, answer questions, set reminders, play music, and more. The system is designed to be extensible, allowing for the addition of new capabilities through a plugin architecture.",
@@ -61,7 +61,7 @@ const projects = [
     tags: ["Computer Vision", "Fitness", "Voice Feedback", "Python"],
     category: "Computer Vision",
     image: "/pypro.jpg?height=600&width=800",
-    github: "https://github.com/atulsahu/curl-counter",
+    github: "https://github.com/atulvjd/curl-counter",
     demo: "https://curl-counter-demo.atulsahu.com",
     details:
       "This fitness application uses computer vision to track and count bicep curls in real-time. It provides audio feedback on form and rep count through voice synthesis. The system can detect improper form and offer suggestions for improvement, making it like having a personal trainer at home.",
@@ -80,7 +80,7 @@ const projects = [
     tags: ["Automation", "Python", "JavaScript", "Productivity"],
     category: "Automation",
     image: "/auto.jpg?height=600&width=800",
-    github: "https://github.com/atulsahu/task-automation",
+    github: "https://github.com/atulvjd/task-automation",
     demo: "",
     details:
       "This collection includes various scripts for automating repetitive tasks such as file organization, data processing, social media posting, and more. Each script is designed to be simple to use and customize, allowing users to adapt them to their specific needs. The automation tools significantly reduce the time spent on mundane tasks.",
@@ -106,6 +106,25 @@ const projects = [
   },
   {
     id: 6,
+    name: "Payment Gateway Project",
+    description:
+      "A simple payment gateway integration project that allows users to make secure online payments.",
+    oneLiner: "Memes that market",
+    problem:
+      "Some payment gateways are complex and difficult to integrate, leading to frustration for developers and users.",
+    interesting:
+      "Streamlined integration process with clear documentation and user-friendly interface, making it easy for developers to implement.",
+    skills: ["Payment Integration", "API Development", "Security", "Web Development"],
+    tags: ["Marketing", "Content Creation", "Social Media", "Viral"],
+    category: "Marketing",
+    image: "/pay.jpg?height=600&width=800",
+    github: "https://github.com/atulvjd/paygate",
+    demo: "https://paygate-blond.vercel.app/",
+    details:
+      "GodRioX is a meme marketing platform that helps brands leverage the power of memes for marketing. It includes tools for creating, scheduling, and analyzing meme content across social media platforms. The platform also provides insights into trending formats and topics, helping brands stay relevant and engage with their audience effectively.",
+  },
+  {
+    id: 7,
     name: "Atul Core",
     description:
       "A meme marketing platform that helps brands create viral content and engage with audiences through humor and trending formats.",
