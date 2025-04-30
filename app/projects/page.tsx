@@ -121,7 +121,7 @@ const projects = [
     github: "https://github.com/atulvjd/paygate",
     demo: "https://paygate-blond.vercel.app/",
     details:
-      "GodRioX is a meme marketing platform that helps brands leverage the power of memes for marketing. It includes tools for creating, scheduling, and analyzing meme content across social media platforms. The platform also provides insights into trending formats and topics, helping brands stay relevant and engage with their audience effectively.",
+      "Payment Gateway for FUNOLOGY",
   },
   {
     id: 7,
@@ -159,7 +159,7 @@ const projects = [
     github: "",
     demo: "https://youtube.com/@AtulCore",
     details:
-      "GodRioX is a meme marketing platform that helps brands leverage the power of memes for marketing. It includes tools for creating, scheduling, and analyzing meme content across social media platforms. The platform also provides insights into trending formats and topics, helping brands stay relevant and engage with their audience effectively.",
+      "Landing page for Eighty8 Films Production Company",
   },
 ]
 
