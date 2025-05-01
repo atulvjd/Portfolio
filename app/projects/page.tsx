@@ -106,7 +106,7 @@ const projects = [
   },
   {
     id: 6,
-    name: "Payment Gateway Project",
+    name: "Payment Gateway Project 1",
     description:
       "A simple payment gateway integration project that allows users to make secure online payments.",
     oneLiner: "Memes that market",
@@ -160,6 +160,44 @@ const projects = [
     demo: "https://youtube.com/@AtulCore",
     details:
       "Landing page for Eighty8 Films Production Company",
+  },
+   {
+    id: 9,
+    name: "Payment Gateway Project 2",
+    description:
+      "A simple Another payment gateway integration project that allows users to make secure online payments.",
+    oneLiner: "Memes that market",
+    problem:
+      "Some payment gateways are complex and difficult to integrate, leading to frustration for developers and users.",
+    interesting:
+      "Streamlined integration process with clear documentation and user-friendly interface, making it easy for developers to implement.",
+    skills: ["Payment Integration", "Security", "Web Development"],
+    tags: ["Marketing", "Content Creation", "Social Media", "Viral"],
+    category: "Marketing",
+    image: "/pay2.jpg?height=600&width=800",
+    github: "https://github.com/atulvjd/funologygate2",
+    demo: "https://funologygate2.vercel.app/",
+    details:
+      "2nd Payment Gateway for FUNOLOGY",
+  },
+   {
+    id: 10,
+    name: "Payment Gateway Project 3",
+    description:
+      "A simple last payment gateway integration project that allows users to make secure online payments.",
+    oneLiner: "Memes that market",
+    problem:
+      "Some payment gateways are complex and difficult to integrate, leading to frustration for developers and users.",
+    interesting:
+      "Streamlined integration process with clear documentation and user-friendly interface, making it easy for developers to implement.",
+    skills: ["Payment Integration", "API Development", "Security", "Web Development"],
+    tags: ["Marketing", "Content Creation", "Social Media", "Viral"],
+    category: "Marketing",
+    image: "/pay3.jpg?height=600&width=800",
+    github: "https://github.com/atulvjd/funologygate3",
+    demo: "https://funologygate3.vercel.app/",
+    details:
+      "3rd Payment Gateway for FUNOLOGY",
   },
 ]
 
