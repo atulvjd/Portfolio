@@ -156,8 +156,8 @@ const projects = [
     tags: ["Marketing", "Content Creation", "Social Media", "Viral"],
     category: "Marketing",
     image: "/88.jpg?height=600&width=800",
-    github: "",
-    demo: "https://youtube.com/@AtulCore",
+    github: "https://github.com/atulvjd/landingpage",
+    demo: "",
     details:
       "Landing page for Eighty8 Films Production Company",
   },
