@@ -258,7 +258,7 @@ export default function AboutPage() {
         <h2 className="text-2xl md:text-3xl font-bold mb-6 font-heading">Family Support</h2>
         <p className="mb-6 text-zinc-400 max-w-3xl mx-auto">
           None of my achievements would be possible without the unwavering support of my family. I'm deeply grateful to
-          my father Girish, mother Pushpa, and sister Akanksha for their encouragement, guidance, and belief in my
+          my father, mother, and sister for their encouragement, guidance, and belief in my
           vision. Their support has been the foundation upon which I've built my journey.
         </p>
       </motion.div>
