@@ -157,7 +157,7 @@ const projects = [
     category: "Marketing",
     image: "/88.jpg?height=600&width=800",
     github: "https://github.com/atulvjd/landingpage",
-    demo: "",
+    demo: "https://v0-eight8-films-website.vercel.app/",
     details:
       "Landing page for Eighty8 Films Production Company",
   },
