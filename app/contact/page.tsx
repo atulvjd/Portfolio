@@ -134,7 +134,7 @@ export default function ContactPage() {
                 <Youtube className="h-6 w-6 text-zinc-300 group-hover:text-cyan-400 transition-colors" />
               </a>
               <a
-                href="https://github.com/atulsahu"
+                href="https://github.com/atulvjd"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="h-14 w-14 rounded-full bg-zinc-800 border border-zinc-700 flex items-center justify-center hover:bg-cyan-500/10 hover:border-cyan-500/50 transition-colors group"
@@ -143,7 +143,7 @@ export default function ContactPage() {
                 <Github className="h-6 w-6 text-zinc-300 group-hover:text-cyan-400 transition-colors" />
               </a>
               <a
-                href="https://instagram.com/atulsahu"
+                href="https://instagram.com/atulwn"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="h-14 w-14 rounded-full bg-zinc-800 border border-zinc-700 flex items-center justify-center hover:bg-cyan-500/10 hover:border-cyan-500/50 transition-colors group"
