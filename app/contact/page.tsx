@@ -125,7 +125,7 @@ export default function ContactPage() {
             </p>
             <div className="flex gap-6">
               <a
-                href="https://www.youtube.com/c/AtulCore"
+                href="https://www.youtube.com/channel/UC9JGaT0WQVZNN0QQTTbbagQ"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="h-14 w-14 rounded-full bg-zinc-800 border border-zinc-700 flex items-center justify-center hover:bg-cyan-500/10 hover:border-cyan-500/50 transition-colors group"
