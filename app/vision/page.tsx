@@ -308,7 +308,7 @@ export default function VisionPage() {
                   <div className="h-6 w-6 rounded-full bg-cyan-500/10 flex items-center justify-center flex-shrink-0 mt-0.5">
                     <ArrowRight className="h-3 w-3 text-cyan-500" />
                   </div>
-                  <span>Grow the YouTube channel to 10,000 subscribers</span>
+                  <span>Grow the YouTube channel to 5,000 subscribers</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <div className="h-6 w-6 rounded-full bg-cyan-500/10 flex items-center justify-center flex-shrink-0 mt-0.5">
