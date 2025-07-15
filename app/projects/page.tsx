@@ -61,8 +61,7 @@ const projects = [
     tags: ["Computer Vision", "Fitness", "Voice Feedback", "Python"],
     category: "Computer Vision",
     image: "/pypro.jpg?height=600&width=800",
-    github: "https://github.com/atulvjd/curl-counter",
-    demo: "https://curl-counter-demo.atulsahu.com",
+    github: "https://github.com/atulvjd/curlcounter",
     details:
       "This fitness application uses computer vision to track and count bicep curls in real-time. It provides audio feedback on form and rep count through voice synthesis. The system can detect improper form and offer suggestions for improvement, making it like having a personal trainer at home.",
   },
