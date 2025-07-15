@@ -99,7 +99,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <h3 className="font-medium text-lg">Location</h3>
-                <p className="text-zinc-400">Pachpedi Naka, Raipur, India</p>
+                <p className="text-zinc-400">Sattva Global City, Banglore, India</p>
               </div>
             </div>
 
