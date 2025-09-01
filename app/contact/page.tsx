@@ -204,7 +204,7 @@ export default function ContactPage() {
                 onChange={handleChange}
                 onFocus={() => handleFocus("name")}
                 onBlur={handleBlur}
-                placeholder="John Doe"
+                placeholder="Atul Sahu"
                 required
                 className="bg-zinc-800 border-zinc-700 focus:border-cyan-500 h-12"
               />
@@ -227,7 +227,7 @@ export default function ContactPage() {
                 onChange={handleChange}
                 onFocus={() => handleFocus("email")}
                 onBlur={handleBlur}
-                placeholder="john@example.com"
+                placeholder="atul@example.com"
                 required
                 className="bg-zinc-800 border-zinc-700 focus:border-cyan-500 h-12"
               />
