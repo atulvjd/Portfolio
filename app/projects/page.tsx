@@ -124,25 +124,6 @@ const projects = [
   },
   {
     id: 7,
-    name: "Atul Core",
-    description:
-      "On my YouTube channel, I create content that blends technology, creativity, and real-world perspective. It’s not just tutorials or motivational talk — it’s about building things, breaking them, learning from it, and sharing that process honestly.",
-    oneLiner: "Memes that market",
-    problem:
-      "Traditional marketing struggles to connect with younger audiences who respond better to authentic, humorous content.",
-    interesting:
-      "Uses trend analysis and audience segmentation to create targeted meme campaigns that drive engagement and conversions.",
-    skills: ["Marketing", "Content Creation", "Trend Analysis", "Social Media"],
-    tags: ["Marketing", "Content Creation", "Social Media", "Viral"],
-    category: "Marketing",
-    image: "/pfp1.jpg?height=600&width=800",
-    github: "",
-    demo: "https://youtube.com/@AtulCore",
-    details:
-      "GodRioX is a meme marketing platform that helps brands leverage the power of memes for marketing. It includes tools for creating, scheduling, and analyzing meme content across social media platforms. The platform also provides insights into trending formats and topics, helping brands stay relevant and engage with their audience effectively.",
-  },
-  {
-    id: 8,
     name: "A Landing page for a Video Production company",
     description:
       "A Simple Landing page for a Video production company to showcase there work, ethnicity and passion.",
@@ -161,7 +142,7 @@ const projects = [
       "Landing page for Eighty8 Films Production Company",
   },
    {
-    id: 9,
+    id: 8,
     name: "Payment Gateway Project 2",
     description:
       "A simple Another payment gateway integration project that allows users to make secure online payments.",
@@ -180,7 +161,7 @@ const projects = [
       "2nd Payment Gateway for FUNOLOGY",
   },
    {
-    id: 10,
+    id: 9,
     name: "Payment Gateway Project 3",
     description:
       "A simple last payment gateway integration project that allows users to make secure online payments.",
