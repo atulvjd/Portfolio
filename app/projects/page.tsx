@@ -126,7 +126,11 @@ const projects = [
     id: 7,
     name: "Atul Core",
     description:
-      "A meme marketing platform that helps brands create viral content and engage with audiences through humor and trending formats.",
+      "On my YouTube channel, I create content that blends technology, creativity, and real-world perspective. It’s not just tutorials or motivational talk — it’s about building things, breaking them, learning from it, and sharing that process honestly.
+I post videos around AI, coding, tech innovation, and entrepreneurship, often showing how ideas can turn into real projects. From developing AI assistants and apps to exploring creative digital tools, my content focuses on the how and why behind what I build — not just the end result.
+You’ll also find insightful breakdowns of topics like productivity, innovation, and personal growth — aimed at creators, developers, and builders who want to think differently and do more. Sometimes it’s technical, sometimes it’s philosophical, but it’s always grounded in reality.
+I also share parts of my journey as an entrepreneur and founder, giving a raw look into what it takes to build something from scratch — the mindset, the challenges, and the execution.
+Overall, my channel is about creating, experimenting, and inspiring — pushing ideas that mix logic with creativity and tech with purpose. It’s made for people who don’t just want to consume content but want to build something that matters.",
     oneLiner: "Memes that market",
     problem:
       "Traditional marketing struggles to connect with younger audiences who respond better to authentic, humorous content.",
